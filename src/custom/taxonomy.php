@@ -49,7 +49,7 @@ function register_custom_taxonomy() {
 		'show_admin_column' => true,
 	);
 
-	register_taxonomy( 'department', array( 'team-bios', 'post' ), $args );
+	register_taxonomy( 'department', array( 'team-bios', 'post'), $args );
 }
 
 add_filter( 'genesis_post_meta', __NAMESPACE__ . '\filter_genesis_footer_post_meta' );
