@@ -5,7 +5,7 @@
  * @package     PurpleProdigy\TeamBios\Support
  * @since       1.0.0
  * @author      Purple Prodigy
- * @link        http://www.purpleprodigy.com
+ * @link        https://www.purpleprodigy.com
  * @license     GNU General Public License 2.0+
  */
 namespace PurpleProdigy\TeamBios\Support;

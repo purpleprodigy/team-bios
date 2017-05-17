@@ -8,11 +8,11 @@
  *
  * @wordpress-plugin
  * Plugin Name: Team Bios Plugin
- * Plugin URI:  http://www.purpleprodigy.com
+ * Plugin URI:  https://www.purpleprodigy.com
  * Description: Functionality and custom post type for a Team Bios Plugin
  * Version:     1.0.0
  * Author:      Purple Prodigy
- * Author URI:  http://www.purpleprodigy.com
+ * Author URI:  https://www.purpleprodigy.com
  * Text Domain: team-bios
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
